@@ -22,7 +22,7 @@
 #define CMD_PAUSE 4
 #define CMD_STOP  5
 
-#define MAX_MUSIC 8
+#define MAX_MUSIC 2
 
 SdFat sd;
 SFEMP3Shield MP3player;
